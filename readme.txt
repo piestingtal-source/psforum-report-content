@@ -13,11 +13,10 @@ Ermöglicht Benutzern, unangemessene Inhalte in Themen und Antworten zu melden.
 
 == Description ==
 
-Mit PS Forum kannst Du Beiträgen oder Seiten in einem gesamten Multisite-Netzwerk Forum Boards hinzufügen.
-Öffne mit Foren neue Kommunikationswege auf Deiner Webseite.
+Dieses kleine Plugin kommt gebündelt mit PS Forum zur alternativen aktivierung.
+Es soll Dich dabei unterstützen dein Forum vor Unangemessenen Inhalten sauber zu halten, Dank Deiner Community.
 
-Erstaunlich einfach
-Füge Deiner Webseite mit nur wenigen Klicks ein Forum hinzu und fördere die Teilnahme der Community.
+
 
 [POWERED BY PSOURCE](https://n3rds.work/psource_kategorien/psource-plugins/)
 
