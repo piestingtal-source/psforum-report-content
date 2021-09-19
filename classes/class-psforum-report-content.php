@@ -3,21 +3,21 @@
  * PS Forum Report Content
  *
  * @package   psforum-report-content
- * @author    Josh Eaton <josh@josheaton.org>
+ * @author    DerN3rd <webmaster@n3rds.work>
  * @license   GPL-2.0+
- * @link      http://www.josheaton.org/
- * @copyright 2013 Josh Eaton
+ * @link      https://n3rds.work/
+ * @copyright 2021 DeN3rd
  */
 
 /**
  * PS Forum Report Content class
  *
  * @package psf_ReportContent
- * @author  Josh Eaton <josh@josheaton.org>
+ * @author  DerN3rd <webmaster@n3rds.work>
  */
 class psf_ReportContent {
 
-	protected $version = '1.0.7';
+	protected $version = '1.0.9';
 	protected $plugin_slug = 'psforum-report-content';
 	protected static $instance = null;
 	protected $plugin_screen_hook_suffix = null;

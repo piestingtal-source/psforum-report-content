@@ -3,7 +3,7 @@
  * Plugin Name: PS Forum - Inhalt melden
  * Plugin URI:  https://n3rds.work/piestingtal_source/ps-forum-plugin/
  * Description: Ermöglicht Benutzern, unangemessene Inhalte in Themen und Antworten zu melden.
- * Version:     1.0.7
+ * Version:     1.0.9
  * Author:      DerN3rd
  * Author URI:  https://n3rds.work/
  * Text Domain: psforum-report-content

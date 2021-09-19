@@ -4,7 +4,7 @@ Donate link: https://n3rds.work/spendenaktionen/unterstuetze-unsere-psource-free
 Tags: forum, inhalte, moderation
 Requires at least: 4.9
 Tested up to: 5.6
-Stable tag: 1.0.7
+Stable tag: 1.0.9
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -30,6 +30,10 @@ Es soll Dich dabei unterstützen dein Forum vor Unangemessenen Inhalten sauber z
 == Mehr PSOURCE ==
 
 Erweitere die Möglichkeiten von Netzwerksuche mit kompatiblen PSOURCE Plugins und Themes
+
+= HINWEIS =
+
+Funktioniert nur mit [PS Forum](https://n3rds.work/piestingtal_source/ps-forum-plugin/), dieses Plugin wird als alternative Erweiterung mitgeliefert.
 
 
 [POWERED BY PSOURCE](https://n3rds.work/psource_kategorien/psource-plugins/)
