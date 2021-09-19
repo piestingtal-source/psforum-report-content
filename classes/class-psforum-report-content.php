@@ -17,7 +17,7 @@
  */
 class psf_ReportContent {
 
-	protected $version = '1.0.6';
+	protected $version = '1.0.7';
 	protected $plugin_slug = 'psforum-report-content';
 	protected static $instance = null;
 	protected $plugin_screen_hook_suffix = null;
